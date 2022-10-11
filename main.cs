@@ -3,9 +3,9 @@
 //
 // This program calculates the area and perimeter of a rectangle
 
-using System; 
+using System;
 
-public class Program 
+public class Program
 {
 
     public static void Main(string[] args) 

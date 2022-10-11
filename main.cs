@@ -7,7 +7,7 @@ using System;
 
 public class Program
 {
-    public static void Main(string[] args) 
+    public static void Main(string[] args)
     {
         Console.WriteLine("The dimensions of a rectangle are: 27cm and 52cm.");
         Console.WriteLine("\nThe area of the rectangle is: " + (27 * 52) + " cm.");
